@@ -1,0 +1,16 @@
+Os dados em raw/ são o "Brazilian E-Commerce Public Dataset by Olist",
+publicado pela Olist no Kaggle e redistribuído aqui, comprimido, sem
+alteração de conteúdo.
+
+    Fonte: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+    Autoria: Olist Store
+    Licença: Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+             International (CC BY-NC-SA 4.0)
+             https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Em resumo, a licença permite copiar e adaptar os dados, exige atribuição
+à Olist, proíbe uso comercial e obriga que trabalhos derivados sejam
+compartilhados sob a mesma licença.
+
+O material didático deste repositório (README e documentação) segue a
+mesma licença, para manter a compatibilidade com a cláusula ShareAlike.
