@@ -27,3 +27,6 @@ desktop.ini
 .DS_Store
 .vscode/
 .idea/
+
+# Gerado ao rodar os testes com cobertura
+.coverage
